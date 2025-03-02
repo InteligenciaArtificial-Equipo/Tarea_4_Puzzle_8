@@ -231,3 +231,16 @@ else:
     print("No solution found.")
 ```
 Si encuentra solución, imprimirá el camino que se tomó, el tiempo que le tomó al algoritmo para resolverlo y el número de movimientos para ello. De caso contrario, se imprimirá que no sea encontrada la solución.
+
+## Ejecuciones
+
+### Ejecución 1
+
+![Image](https://github.com/user-attachments/assets/49719420-74cc-4fa5-9beb-dac8e2c5a639)
+
+### Ejecución 2
+
+![Image](https://github.com/user-attachments/assets/fc526750-6620-4aa1-b952-76a0a3a26cb1)
+
+![Image](https://github.com/user-attachments/assets/095425d2-48fc-47e7-ae25-5229722a5092)
+
