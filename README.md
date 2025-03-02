@@ -230,4 +230,4 @@ if solution:
 else:
     print("No solution found.")
 ```
-Si encuentra solución, imprimirá el camino que se tomó, el tiempo que le tomó al algoritmo para resolverlo y el número de movimientos para ello.
+Si encuentra solución, imprimirá el camino que se tomó, el tiempo que le tomó al algoritmo para resolverlo y el número de movimientos para ello. De caso contrario, se imprimirá que no sea encontrada la solución.
