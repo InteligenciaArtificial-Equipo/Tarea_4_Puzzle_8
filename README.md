@@ -1,2 +1,10 @@
-# Tarea_4_Puzzle_8
-Resolve Puzzle 8 problem using an AI model with A* algorith 
+# Tarea 4
+
+## Puzzle 8
+
+## Resuelto con el algoritmo *A**
+
+## Integrantes
+
+### Chaparro Castillo Christopher
+### Peñuelas López Luis Antonio
